@@ -10,37 +10,37 @@ Dacă întâmpini probleme sau nu găsești informația dorită, poți deschide 
 
 <div class="home-grid">
 
-<a class="home-card" href="/regulament-general">
+<a class="home-card" href="./regulament-general.html">
 <h3>📜 Regulament General</h3>
 <p>Reguli generale și prevederi oficiale ale comunității.</p>
 </a>
 
-<a class="home-card" href="/regulament-politie">
+<a class="home-card" href="./regulament-politie.html">
 <h3>👮 Regulament Poliție</h3>
 <p>Proceduri, reguli și organizarea Departamentului de Poliție.</p>
 </a>
 
-<a class="home-card" href="/regulament-ems">
+<a class="home-card" href="./regulament-ems.html">
 <h3>🚑 Regulament EMS</h3>
 <p>Regulamentul Serviciului Medical.</p>
 </a>
 
-<a class="home-card" href="/regulament-anp">
+<a class="home-card" href="./regulament-anp.html">
 <h3>🔒 Regulament ANP</h3>
 <p>Reguli pentru Administrația Penitenciarelor.</p>
 </a>
 
-<a class="home-card" href="/regulament-civili">
+<a class="home-card" href="./regulament-civili.html">
 <h3>👤 Regulament Civili</h3>
 <p>Regulile aplicabile tuturor civililor.</p>
 </a>
 
-<a class="home-card" href="/regulament-pc-check">
+<a class="home-card" href="./regulament-pc-check.html">
 <h3>🖥️ Regulament PC Check</h3>
 <p>Procedura verificărilor PC.</p>
 </a>
 
-<a class="home-card" href="/cod-penal">
+<a class="home-card" href="./cod-penal.html">
 <h3>⚖️ Cod Penal</h3>
 <p>Infracțiuni, sancțiuni și legislația serverului.</p>
 </a>
@@ -78,5 +78,5 @@ Vezi profilul GitHub →
 ## 🌐 Link-uri utile
 
 - 💬 [Discord](https://discord.gg/VpMJ4KtwYR)
-- 📜 [Regulamente](/regulament-general)
-- ⚖️ [Cod Penal](/cod-penal)
+- 📜 [Regulamente](./regulament-general.html)
+- ⚖️ [Cod Penal](./cod-penal.html)
