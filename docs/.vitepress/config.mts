@@ -7,7 +7,7 @@ export default defineConfig({
   lang: 'ro-RO',
   cleanUrls: false,
   themeConfig: {
-    logo: 'legacyofclttt.png',
+    logo: '/LegacyOfCLTT/legacyofclttt.png',
     nav: [
       { text: 'Acasă', link: '/' },
       { text: 'Cod Penal', link: '/cod-penal.html' },
