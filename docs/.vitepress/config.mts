@@ -1,9 +1,9 @@
 import { defineConfig } from 'vitepress';
 
 export default defineConfig({
+  base: '/LegacyOfCLTT/',
   title: 'Legacy of CLT Wiki',
   description: 'Regulament și informații pentru comunitatea Legacy of CLT',
-  base: '/LegacyOfCLT/',
   lang: 'ro-RO',
   themeConfig: {
 logo: '/LegacyOfCLT/legacyofclttt.png',    nav: [
