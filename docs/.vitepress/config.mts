@@ -3,10 +3,10 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: 'Legacy of CLT Wiki',
   description: 'Regulament și informații pentru comunitatea Legacy of CLT',
+  base: '/LegacyOfCLT/',
   lang: 'ro-RO',
   themeConfig: {
-    logo: '/legacyofclttt.png',
-    nav: [
+logo: '/LegacyOfCLT/legacyofclttt.png',    nav: [
       { text: 'Acasă', link: '/' },
       { text: 'Cod Penal', link: '/cod-penal' },
       { text: 'Regulamente', link: '/regulament-general' }
@@ -34,9 +34,9 @@ export default defineConfig({
   },
   appearance: 'dark',
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/legacyofclttt.png?v=2' }],
-    ['link', { rel: 'shortcut icon', type: 'image/png', href: '/legacyofclttt.png?v=2' }],
-    ['link', { rel: 'apple-touch-icon', href: '/legacyofclttt.png?v=2' }]
+    ['link', { rel: 'icon', type: 'image/png', href: '/LegacyOfCLT/legacyofclttt.png?v=2' }],
+    ['link', { rel: 'shortcut icon', type: 'image/png', href: '/LegacyOfCLT/legacyofclttt.png?v=2' }],
+    ['link', { rel: 'apple-touch-icon', href: '/LegacyOfCLT/legacyofclttt.png?v=2' }]
   ],
   vite: {
     css: {
