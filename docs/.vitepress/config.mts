@@ -7,7 +7,7 @@ export default defineConfig({
   lang: 'ro-RO',
   cleanUrls: false,
   themeConfig: {
-    logo: '/LegacyOfCLTT/legacyofclttt.png',
+    logo: '/legacyofclttt.png',
     nav: [
       { text: 'Acasă', link: '/' },
       { text: 'Cod Penal', link: '/cod-penal.html' },
@@ -50,4 +50,3 @@ export default defineConfig({
     theme: 'github-dark-dimmed'
   }
 });
-
